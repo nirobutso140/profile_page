@@ -444,9 +444,10 @@ hr{
 /* experience end here */
 .projects-header{
     text-align: center;
-    background-color: #2F4F4F;
+    color: rgb(0, 0, 88);
+    /* background-color: #2F4F4F;
     color: white;
-    padding: 15px 0;
+    padding: 15px 0; */
 }
 .projects{
     display: flex;
@@ -455,7 +456,7 @@ hr{
     height: 300px;
 }
 .project{
-    width: 250px;
+    width: 200px;
     
 }
 .project img{
