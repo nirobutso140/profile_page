@@ -445,6 +445,8 @@ hr{
 .projects-header{
     text-align: center;
     color: rgb(0, 0, 88);
+    
+    
     /* background-color: #2F4F4F;
     color: white;
     padding: 15px 0; */
@@ -452,6 +454,9 @@ hr{
 .projects{
     display: flex;
     justify-content: space-evenly;
+    /* background-image: url('images/bg2.jpg');
+    background-size: cover;
+    background-position: center; */
     align-items: center;
     height: 300px;
 }
